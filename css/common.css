@@ -3,7 +3,7 @@ body{
     background-position:center;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    opacity: 1;
+    opacity: 3;
     
 }
 logo{
@@ -39,6 +39,7 @@ nav-current{
     background-color:#783525;
     color:#c7aea8;
     font-size:15.83pt;
+    
 }
 li-nav a:hover:not(.active) {
     background-color: #111;
